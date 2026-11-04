@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bird-strategy-attempting-gold.trycloudflare.com/vnc.html
+URL       : https://pending-recipient-agriculture-reproduction.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 17:35:15
+Created   : 2026-11-04 00:26:04
 =======================================================
