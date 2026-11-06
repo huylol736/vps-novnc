@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://extraordinary-pressure-therefore-occur.trycloudflare.com/vnc.html
+URL       : https://ruled-britney-algorithms-king.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:54:08
+Created   : 2026-11-06 00:46:31
 =======================================================
