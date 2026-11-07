@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://operating-montreal-investing-further.trycloudflare.com/vnc.html
+URL       : https://talk-associated-border-wet.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 04:42:54
+Created   : 2026-11-07 11:32:43
 =======================================================
